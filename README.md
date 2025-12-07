@@ -1,4 +1,4 @@
-# Modeling the Determinants of Diabetes and Prediabetes using Logistics and Baseline Logit Model
+# Visualizations of the Gender Trend of Labor Force, Employment and Unemployment across World Bank Regions- SubSahara Africa
 ## Project Overview
 This project seeks to understand
 - How do male and female labor force participation rates differ across global regions, and which regions exhibit the largest gender disparities?
@@ -59,3 +59,4 @@ To reproduce the analysis:
 **Oluwafunmibi Omotayo Fasanya** 
 PhD Student, Biostatistics and Data science
 Louisiana State University Health Sciences Center, New Orleans 
+
